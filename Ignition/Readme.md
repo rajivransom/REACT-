@@ -37,4 +37,6 @@ WE ENABLES US TO HTTPS IN LOCALHOST
 **EVERYTHING WE CAN GENERATE IN SERVER SHOULD BE PUT IN GIT IGNORE**
 
 **BROWSERLIST** IS THE PACKAGE THAT MAKES THE APP WORK FOR DIFFERENT VERSIONS OF THE BROWSER,
+**
+Tree shaking** is a term commonly used within a JavaScript context to describe the removal of dead code
 
